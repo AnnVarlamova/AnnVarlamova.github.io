@@ -190,7 +190,7 @@ a {
     font-size: 25px;
     margin-top: 90px;
     margin-left: 40px;
-    width: 200px;
+    min-width: 200px;
 }
 .main__text__2 a{
     font-size: 25px;
