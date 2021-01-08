@@ -25,6 +25,7 @@ body{
     font-size: 14px;
     line-height: 18px;
     color: #1B1816;
+    min-width: 1240px;
 }
 .header__top{
     background-color: #03a52b;
