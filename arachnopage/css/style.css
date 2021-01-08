@@ -12,7 +12,7 @@ li{
     padding: 0;
 }
 .container{
-    max-width: 1200px;
+    width: 1200px;
     margin: 0 auto;
     padding: 0 18px;
     position: relative;
@@ -129,7 +129,7 @@ body{
     color: white;
 }
 .slider-item{
-    min-width: 1170px;
+    width: 1170px;
 }
 
 .slider-inner .slider-item{
@@ -147,7 +147,7 @@ body{
     color: white;
     font-size: 25px;
     line-height: normal;
-    max-width: 600px;
+    width: 600px;
 }
 .slider-button{
     margin-top: 350px;
@@ -165,7 +165,7 @@ a {
     color: black;
 }
 .main__content{
-    max-height: 600px;
+    height: 600px;
     display: block;
     background-color: rgb(206, 206, 199);
 }
@@ -189,7 +189,7 @@ a {
     font-size: 25px;
     margin-top: 90px;
     margin-left: 40px;
-    min-width: 200px;
+    width: 200px;
 }
 .main__text__2 a{
     font-size: 25px;
