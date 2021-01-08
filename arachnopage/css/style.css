@@ -217,7 +217,7 @@ a {
     font-size: 25px;
     color: white;
     text-align: center;
-    min-height: 200px;
+    height: 200px;
     padding-top: 100px;
 }
 .test-border{
