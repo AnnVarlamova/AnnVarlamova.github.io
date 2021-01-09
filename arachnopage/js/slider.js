@@ -16,7 +16,7 @@
     }
     btn__prev.onclick = function(){
         slides[k].style.display = 'none';
-        k = k - 1;
+        --k;
         if(k < 0){
             k = 2;
         }
